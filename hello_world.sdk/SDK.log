@@ -1,0 +1,15 @@
+00:23:04 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+00:23:06 INFO  : XSDB server has started successfully.
+00:24:14 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+00:24:16 INFO  : XSDB server has started successfully.
+00:24:17 INFO  : Processing command line option -hwspec F:/FYP/vivado_projects/hello_world/hello_world.sdk/zynq_design_1_wrapper.hdf.
+00:32:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:32:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248552971" && level==0} -index 1' command is executed.
+00:32:26 INFO  : FPGA configured successfully with bitstream "F:/FYP/vivado_projects/hello_world/hello_world.sdk/zynq_design_1_wrapper_hw_platform_0/zynq_design_1_wrapper.bit"
+00:35:13 INFO  : ps7_init is completed.
+00:35:13 INFO  : ps7_post_config is completed.
+00:35:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:42:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:42:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:44:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:47:49 INFO  : Processor reset is completed for ps7_cortexa9_0
